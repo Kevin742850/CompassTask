@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29505.145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compass.Digital.GateKeeper", "Compass.Digital.GateKeeper.csproj", "{B8A7C115-BA2A-4210-83F4-AFFB58804837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compass.Digital.Core", "..\Compass.Digital.Core\Compass.Digital.Core.csproj", "{178C9747-3239-4D1C-8E2B-93D10BFB98C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compass.Digital.BO", "..\Compass.Digital.BO\Compass.Digital.BO.csproj", "{3929AC0E-5E40-4B0B-A26A-D08A1C689164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compass.Digital.DAL", "..\Compass.Digital.DAL\Compass.Digital.DAL.csproj", "{22062640-9BAF-4692-A963-43BF97D5E072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compass.Digital.Synchronize.Records", "..\Compass.Digital.Synchronize.Records\Compass.Digital.Synchronize.Records.csproj", "{9367CC97-F8F9-4CCD-9B86-AFF1455B5E23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A7C115-BA2A-4210-83F4-AFFB58804837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A7C115-BA2A-4210-83F4-AFFB58804837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A7C115-BA2A-4210-83F4-AFFB58804837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A7C115-BA2A-4210-83F4-AFFB58804837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{178C9747-3239-4D1C-8E2B-93D10BFB98C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178C9747-3239-4D1C-8E2B-93D10BFB98C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178C9747-3239-4D1C-8E2B-93D10BFB98C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178C9747-3239-4D1C-8E2B-93D10BFB98C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3929AC0E-5E40-4B0B-A26A-D08A1C689164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3929AC0E-5E40-4B0B-A26A-D08A1C689164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3929AC0E-5E40-4B0B-A26A-D08A1C689164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3929AC0E-5E40-4B0B-A26A-D08A1C689164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22062640-9BAF-4692-A963-43BF97D5E072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22062640-9BAF-4692-A963-43BF97D5E072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22062640-9BAF-4692-A963-43BF97D5E072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22062640-9BAF-4692-A963-43BF97D5E072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9367CC97-F8F9-4CCD-9B86-AFF1455B5E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9367CC97-F8F9-4CCD-9B86-AFF1455B5E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9367CC97-F8F9-4CCD-9B86-AFF1455B5E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9367CC97-F8F9-4CCD-9B86-AFF1455B5E23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {352AA402-FB78-467A-A04B-37ED39513496}
+	EndGlobalSection
+EndGlobal

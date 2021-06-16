@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="NLog" Version="4.7.10" />
+    <PackageReference Include="NLog.Config" Version="4.7.10" />
+    <PackageReference Include="NLog.Schema" Version="4.7.10" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\Compass.Digital.BO\Compass.Digital.BO.csproj" />
+    <ProjectReference Include="..\Compass.Digital.Core\Compass.Digital.Core.csproj" />
+    <ProjectReference Include="..\Compass.Digital.DAL\Compass.Digital.DAL.csproj" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Reference Include="NativeEncryption">
+      <HintPath>..\..\..\Desktop\DllsReference\NativeEncryption.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

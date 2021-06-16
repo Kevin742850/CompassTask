@@ -1,0 +1,16 @@
+C:\Users\muhammad.ali\source\repos\Compass.Digital.BO\bin\Debug\netcoreapp2.2\Compass.Digital.BO.deps.json
+C:\Users\muhammad.ali\source\repos\Compass.Digital.BO\bin\Debug\netcoreapp2.2\Compass.Digital.BO.dll
+C:\Users\muhammad.ali\source\repos\Compass.Digital.BO\obj\Debug\netcoreapp2.2\Compass.Digital.BO.AssemblyInfoInputs.cache
+C:\Users\muhammad.ali\source\repos\Compass.Digital.BO\obj\Debug\netcoreapp2.2\Compass.Digital.BO.AssemblyInfo.cs
+C:\Users\muhammad.ali\source\repos\Compass.Digital.BO\bin\Debug\netcoreapp2.2\Compass.Digital.BO.pdb
+C:\Users\muhammad.ali\source\repos\Compass.Digital.BO\obj\Debug\netcoreapp2.2\Compass.Digital.BO.dll
+C:\Users\muhammad.ali\source\repos\Compass.Digital.BO\obj\Debug\netcoreapp2.2\Compass.Digital.BO.pdb
+C:\Users\muhammad.ali\source\repos\Compass.Digital.BO\obj\Debug\netcoreapp2.2\Compass.Digital.BO.csprojAssemblyReference.cache
+E:\Compass_Task\Compass.Digital.BO\bin\Debug\netcoreapp2.2\Compass.Digital.BO.deps.json
+E:\Compass_Task\Compass.Digital.BO\bin\Debug\netcoreapp2.2\Compass.Digital.BO.dll
+E:\Compass_Task\Compass.Digital.BO\bin\Debug\netcoreapp2.2\Compass.Digital.BO.pdb
+E:\Compass_Task\Compass.Digital.BO\obj\Debug\netcoreapp2.2\Compass.Digital.BO.csprojAssemblyReference.cache
+E:\Compass_Task\Compass.Digital.BO\obj\Debug\netcoreapp2.2\Compass.Digital.BO.AssemblyInfoInputs.cache
+E:\Compass_Task\Compass.Digital.BO\obj\Debug\netcoreapp2.2\Compass.Digital.BO.AssemblyInfo.cs
+E:\Compass_Task\Compass.Digital.BO\obj\Debug\netcoreapp2.2\Compass.Digital.BO.dll
+E:\Compass_Task\Compass.Digital.BO\obj\Debug\netcoreapp2.2\Compass.Digital.BO.pdb
