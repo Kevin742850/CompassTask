@@ -9,7 +9,6 @@ C:\Users\muhammad.ali\source\repos\Compass.Digital.Core\obj\Debug\netcoreapp2.2\
 E:\Compass_Task\Compass.Digital.Core\bin\Debug\netcoreapp2.2\Compass.Digital.Core.deps.json
 E:\Compass_Task\Compass.Digital.Core\bin\Debug\netcoreapp2.2\Compass.Digital.Core.dll
 E:\Compass_Task\Compass.Digital.Core\bin\Debug\netcoreapp2.2\Compass.Digital.Core.pdb
-E:\Compass_Task\Compass.Digital.Core\obj\Debug\netcoreapp2.2\Compass.Digital.Core.csprojAssemblyReference.cache
 E:\Compass_Task\Compass.Digital.Core\obj\Debug\netcoreapp2.2\Compass.Digital.Core.AssemblyInfoInputs.cache
 E:\Compass_Task\Compass.Digital.Core\obj\Debug\netcoreapp2.2\Compass.Digital.Core.AssemblyInfo.cs
 E:\Compass_Task\Compass.Digital.Core\obj\Debug\netcoreapp2.2\Compass.Digital.Core.dll
