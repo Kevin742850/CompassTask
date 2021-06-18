@@ -77,3 +77,4 @@ E:\Compass_Task\Compass.Digital.GateKeeper\obj\Debug\netcoreapp2.2\Compass.Digit
 E:\Compass_Task\Compass.Digital.GateKeeper\obj\Debug\netcoreapp2.2\Compass.Digital.GateKeeper.csproj.CopyComplete
 E:\Compass_Task\Compass.Digital.GateKeeper\obj\Debug\netcoreapp2.2\Compass.Digital.GateKeeper.dll
 E:\Compass_Task\Compass.Digital.GateKeeper\obj\Debug\netcoreapp2.2\Compass.Digital.GateKeeper.pdb
+E:\Compass_Task\Compass.Digital.GateKeeper\bin\Debug\netcoreapp2.2\NativeEncryption.dll

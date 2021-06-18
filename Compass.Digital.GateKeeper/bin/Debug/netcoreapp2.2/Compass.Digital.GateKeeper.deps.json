@@ -33,7 +33,8 @@
           "Microsoft.NETCore.App": "2.2.0",
           "NLog": "4.7.10",
           "NLog.Config": "4.7.10",
-          "NLog.Schema": "4.7.10"
+          "NLog.Schema": "4.7.10",
+          "NativeEncryption": "6.0.0.1"
         },
         "runtime": {
           "Compass.Digital.GateKeeper.dll": {}
@@ -318,6 +319,17 @@
         },
         "compile": {
           "Compass.Digital.DAL.dll": {}
+        }
+      },
+      "NativeEncryption/6.0.0.1": {
+        "runtime": {
+          "NativeEncryption.dll": {
+            "assemblyVersion": "6.0.0.1",
+            "fileVersion": "6.0.0.1"
+          }
+        },
+        "compile": {
+          "NativeEncryption.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3576,6 +3588,11 @@
     },
     "Compass.Digital.DAL/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NativeEncryption/6.0.0.1": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
